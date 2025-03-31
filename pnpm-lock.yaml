@@ -38,7 +38,7 @@ importers:
         specifier: ^8.28.0
         version: 8.28.0(eslint@9.23.0(jiti@2.4.2))(typescript@5.8.2)
       vite:
-        specifier: ^6.2.2
+        specifier: ^6.2.3
         version: 6.2.3(jiti@2.4.2)(lightningcss@1.29.2)(yaml@2.6.0)
       vue-tsc:
         specifier: 2.2.2

@@ -4,12 +4,12 @@
       <UHeader>
         <template #left>
           <RouterLink to="/">
-            <LogoPro class="w-auto h-6 shrink-0" />
+            <UILogo class="w-auto h-6 shrink-0" />
           </RouterLink>
         </template>
 
         <template #right>
-          <UColorModeButton />
+          <!-- <UColorModeButton /> -->
 
           <UButton
             to="https://github.com/nuxt-ui-pro/starter-vue"

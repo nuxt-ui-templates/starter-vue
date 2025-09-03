@@ -4,15 +4,15 @@
       <UHeader>
         <template #left>
           <RouterLink to="/">
-            <UILogo class="w-auto h-6 shrink-0" />
+            <AppLogo class="w-auto h-6 shrink-0" />
           </RouterLink>
         </template>
 
         <template #right>
-          <!-- <UColorModeButton /> -->
+          <UColorModeButton />
 
           <UButton
-            to="https://github.com/nuxt-ui-pro/starter-vue"
+            to="https://github.com/nuxt-ui-templates/starter-vue"
             target="_blank"
             icon="simple-icons:github"
             aria-label="GitHub"
@@ -37,7 +37,7 @@
 
         <template #right>
           <UButton
-            to="https://github.com/nuxt-ui-pro/starter-vue"
+            to="https://github.com/nuxt-ui-templates/starter-vue"
             target="_blank"
             icon="simple-icons:github"
             aria-label="GitHub"

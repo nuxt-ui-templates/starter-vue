@@ -31,7 +31,7 @@
       <UFooter>
         <template #left>
           <p class="text-sm text-muted">
-            Copyright © {{ new Date().getFullYear() }}
+            Built with Nuxt UI • © {{ new Date().getFullYear() }}
           </p>
         </template>
 

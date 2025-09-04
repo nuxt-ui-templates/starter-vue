@@ -21,6 +21,8 @@ Use this template to get started with [Nuxt UI](https://ui.nuxt.com) quickly.
 npx giget@latest gh:nuxt-ui-templates/starter-vue my-vue-starter
 ```
 
+Once the directory is created, you can install the dependencies and start the development server using the `npm run dev` command.
+
 ## Deploy your own
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fnuxt-ui-templates%2Fstarter-vue)

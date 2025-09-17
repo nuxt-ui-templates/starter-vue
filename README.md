@@ -20,7 +20,7 @@ Use this template to get started with [Nuxt UI](https://ui.nuxt.com) quickly.
 ## Quick Start
 
 ```bash [Terminal]
-npm create nuxt@latest -- --no-templates -t github:nuxt-ui-templates/starter-vue
+npm create nuxt@latest -- --no-modules -t github:nuxt-ui-templates/starter-vue
 ```
 
 ## Deploy your own

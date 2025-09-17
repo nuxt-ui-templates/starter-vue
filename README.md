@@ -15,13 +15,13 @@ Use this template to get started with [Nuxt UI](https://ui.nuxt.com) quickly.
   </picture>
 </a>
 
+> The starter template for Nuxt is on https://github.com/nuxt-ui-templates/starter.
+
 ## Quick Start
 
 ```bash [Terminal]
-npx giget@latest gh:nuxt-ui-templates/starter-vue my-vue-starter
+npm create nuxt@latest -- --no-templates -t github:nuxt-ui-templates/starter-vue
 ```
-
-Once the directory is created, you can install the dependencies and start the development server using the `npm run dev` command.
 
 ## Deploy your own
 

@@ -47,7 +47,7 @@
         <rect
           width="231.214"
           height="200"
-          fill="white"
+          fill="currentColor"
         />
       </clipPath>
     </defs>

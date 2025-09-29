@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@nuxt/ui": "^4.0.0",
-    "vue": "^3.5.21",
+    "vue": "^3.5.22",
     "vue-router": "^4.5.1"
   },
   "devDependencies": {
@@ -21,7 +21,7 @@
     "typescript": "^5.9.2",
     "typescript-eslint": "^8.44.1",
     "vite": "^7.1.7",
-    "vue-tsc": "^3.0.8"
+    "vue-tsc": "^3.1.0"
   },
   "resolutions": {
     "unimport": "4.1.1"

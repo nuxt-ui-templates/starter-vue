@@ -1,6 +1,7 @@
 # Vue Starter Template
 
 [![Nuxt UI](https://img.shields.io/badge/Made%20with-Nuxt%20UI-00DC82?logo=nuxt&labelColor=020420)](https://ui.nuxt.com)
+[![Nitro](https://img.shields.io/badge/Bult%20with-Nitro-ff637e?logo=nitro&labelColor=18181B)](https://nitro.build)
 
 Use this template to get started with [Nuxt UI](https://ui.nuxt.com) quickly.
 

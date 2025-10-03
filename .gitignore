@@ -31,3 +31,9 @@ tsconfig.node.tsbuildinfo
 
 # Environment variables
 .env
+
+# Nitro
+.nitro
+.output
+.data
+.cache

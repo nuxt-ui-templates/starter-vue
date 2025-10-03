@@ -10,7 +10,7 @@
     "typecheck": "vue-tsc -p ./tsconfig.app.json"
   },
   "dependencies": {
-    "nitro": "npm:nitro-nightly@2.12.7-20251003-132655.f739097c-mirror",
+    "nitro": "npm:nitro-nightly@3.0.0-20251003-144426-44460d2d",
     "@nuxt/ui": "^4.0.0",
     "vue": "^3.5.22",
     "vue-router": "^4.5.1"

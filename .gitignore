@@ -37,3 +37,6 @@ tsconfig.node.tsbuildinfo
 .output
 .data
 .cache
+
+# Vercel
+.vercel

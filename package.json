@@ -17,12 +17,12 @@
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^6.0.4",
-    "eslint": "^10.0.2",
+    "eslint": "^10.0.3",
     "eslint-plugin-vue": "^10.8.0",
     "typescript": "^5.9.3",
     "typescript-eslint": "^8.56.1",
     "vite": "^7.3.1",
     "vue-tsc": "^3.2.5"
   },
-  "packageManager": "pnpm@10.30.3"
+  "packageManager": "pnpm@10.31.0"
 }

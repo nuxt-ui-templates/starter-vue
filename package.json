@@ -22,7 +22,7 @@
     "eslint": "^10.2.1",
     "eslint-plugin-vue": "^10.9.0",
     "typescript": "^6.0.3",
-    "typescript-eslint": "^8.59.0",
+    "typescript-eslint": "^8.59.1",
     "vite": "^7.3.2",
     "vue-tsc": "^3.2.7"
   },

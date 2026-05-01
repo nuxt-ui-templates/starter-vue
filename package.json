@@ -10,19 +10,19 @@
     "typecheck": "vue-tsc -p ./tsconfig.app.json"
   },
   "dependencies": {
-    "@nuxt/ui": "^4.7.0",
+    "@nuxt/ui": "^4.7.1",
     "@unhead/vue": "^2.1.13",
-    "@vueuse/core": "^14.2.1",
+    "@vueuse/core": "^14.3.0",
     "tailwindcss": "^4.2.4",
     "vue": "^3.5.33",
     "vue-router": "^5.0.6"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^6.0.6",
-    "eslint": "^10.2.1",
+    "eslint": "^10.3.0",
     "eslint-plugin-vue": "^10.9.0",
     "typescript": "^6.0.3",
-    "typescript-eslint": "^8.59.0",
+    "typescript-eslint": "^8.59.1",
     "vite": "^7.3.2",
     "vue-tsc": "^3.2.7"
   },

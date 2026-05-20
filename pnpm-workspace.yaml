@@ -1,4 +1,4 @@
-ignoredBuiltDependencies:
-  - '@tailwindcss/oxide'
-  - esbuild
-  - vue-demi
+allowBuilds:
+  '@tailwindcss/oxide': false
+  esbuild: false
+  vue-demi: false

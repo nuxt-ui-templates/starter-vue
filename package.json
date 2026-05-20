@@ -26,5 +26,5 @@
     "vite": "^7.3.3",
     "vue-tsc": "^3.3.0"
   },
-  "packageManager": "pnpm@10.33.4"
+  "packageManager": "pnpm@11.1.3"
 }

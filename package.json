@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@nuxt/ui": "^4.9.0",
-    "@unhead/vue": "^2.1.15",
+    "@unhead/vue": "^3.1.7",
     "@vueuse/core": "^14.3.0",
     "tailwindcss": "^4.3.1",
     "vue": "^3.5.39",

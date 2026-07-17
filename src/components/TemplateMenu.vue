@@ -11,6 +11,9 @@
     }, {
       label: 'Dashboard',
       to: 'https://dashboard-vue-template.nuxt.dev/'
+    }, {
+      label: 'Chat',
+      to: 'https://chat-vue-template.nuxt.dev/'
     }]"
     :content="{ align: 'start' }"
     :ui="{ content: 'min-w-fit' }"

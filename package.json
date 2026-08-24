@@ -10,7 +10,7 @@
     "typecheck": "vue-tsc -p ./tsconfig.app.json"
   },
   "dependencies": {
-    "@nuxt/ui": "^4.10.0",
+    "@nuxt/ui": "^4.11.0",
     "@unhead/vue": "^2.1.17",
     "@vueuse/core": "^14.4.0",
     "tailwindcss": "^4.3.3",
@@ -19,12 +19,12 @@
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^6.0.8",
-    "eslint": "^10.8.1",
+    "eslint": "^10.9.0",
     "eslint-plugin-vue": "^10.10.0",
     "typescript": "^6.0.3",
     "typescript-eslint": "^8.67.0",
     "vite": "^7.3.6",
-    "vue-tsc": "^3.3.10"
+    "vue-tsc": "^3.3.11"
   },
   "packageManager": "pnpm@11.22.0"
 }

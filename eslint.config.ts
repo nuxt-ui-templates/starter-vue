@@ -1,3 +1,5 @@
+import betterTailwindcss from 'eslint-plugin-better-tailwindcss'
+import { getDefaultAttributes } from 'eslint-plugin-better-tailwindcss/api/defaults'
 import eslintPluginVue from 'eslint-plugin-vue'
 import ts from 'typescript-eslint'
 
@@ -13,6 +15,18 @@ export default ts.config(
     },
     rules: {
       'vue/multi-word-component-names': 'off'
+    }
+  },
+  betterTailwindcss.configs['correctness-error'],
+  {
+    settings: {
+      'better-tailwindcss': {
+        entryPoint: 'src/assets/css/main.css',
+        attributes: [
+          ...getDefaultAttributes(),
+          ['^v-bind:ui$', [{ match: 'objectValues' }]]
+        ]
+      }
     }
   }
 )

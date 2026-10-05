@@ -1,20 +1,26 @@
+<script setup lang="ts">
+import type { DropdownMenuItem } from '@nuxt/ui'
+
+const items: DropdownMenuItem[] = [{
+  label: 'Starter',
+  to: 'https://starter-vue-template.nuxt.dev/',
+  color: 'primary',
+  checked: true,
+  type: 'checkbox'
+}, {
+  label: 'Dashboard',
+  to: 'https://dashboard-vue-template.nuxt.dev/'
+}, {
+  label: 'Chat',
+  to: 'https://chat-vue-template.nuxt.dev/'
+}]
+</script>
+
 <template>
   <UDropdownMenu
     v-slot="{ open }"
     :modal="false"
-    :items="[{
-      label: 'Starter',
-      to: 'https://starter-vue-template.nuxt.dev/',
-      color: 'primary',
-      checked: true,
-      type: 'checkbox'
-    }, {
-      label: 'Dashboard',
-      to: 'https://dashboard-vue-template.nuxt.dev/'
-    }, {
-      label: 'Chat',
-      to: 'https://chat-vue-template.nuxt.dev/'
-    }]"
+    :items="items"
     :content="{ align: 'start' }"
     :ui="{ content: 'min-w-fit' }"
     size="xs"

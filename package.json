@@ -10,7 +10,7 @@
     "typecheck": "vue-tsc -p ./tsconfig.app.json"
   },
   "dependencies": {
-    "@nuxt/ui": "^4.12.0",
+    "@nuxt/ui": "^4.13.0",
     "@unhead/vue": "^3.4.3",
     "@vueuse/core": "^14.4.0",
     "tailwindcss": "^4.3.5",
